@@ -1,7 +1,7 @@
 # POS(point of sale) System (laravel project)
 pages
   -dashboard contains statistics about project (categories, products, clients, supervisiors, sales graph for profit)
-  ================================================================================================================
+  ------------------------------------------------------------------------------------------------------------------
   -supervisiors (search, show, add, edit, update, delete)
   -categories   (search, show, add, edit, update, delete)
   -products     (search, show, add, edit, update, delete)
